@@ -1,3 +1,4 @@
+## Urban Data Science Curriculum Development
 ## Instrutors: Shaily R Gandhi,  Felix Emeka Anyiam, Vikram Sorathia
 
 Urban Data Science is a course which is an outcome of the collaboration which took place in CODATA Research Data workshop in Trieste 2017.  The course of urban data science was hosted by CEPT University, Ahmedabad, India from May 14 - May 19, 2018 to address the challenges with poor use of available open data in decision making while keeping urban in focus. The course had been designed to get students started with the basic data science components in a short span of 6 days. The aim of the course was to give an insight on open urban Data Sets and insights for interaction with other sources of data freely available. These Data Sets allow a deeper understanding of the urban and its problems, allowing the students to have a firmer control over possible bias and therefore analysing and giving solutions for overcoming the situations.
